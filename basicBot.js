@@ -292,7 +292,7 @@
             afkRankCheck: "ambassador",
             motdEnabled: false,
             motdInterval: 5,
-            motd: "Temporary Message of the Day",
+            motd: "hahahahahaha",
             filterChat: true,
             etaRestriction: false,
             welcome: true,
