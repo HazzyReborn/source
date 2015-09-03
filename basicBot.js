@@ -132,7 +132,7 @@
         });
     };
 
-    var retrieveSettings = function () {
+    var retrieveSettings = function (!test) {
         var settings = JSON.parse(localStorage.getItem("basicBotsettings"));
         if (settings !== null) {
             for (var prop in settings) {
